@@ -1,0 +1,17 @@
+E:\playground\react-fullscreen-slider\src
+├── App.js
+├── App.test.js
+├── components
+|  └── Slider.js
+├── hooks
+|  └── useSlider.js
+├── images.js
+├── index.css
+├── index.js
+├── logo.svg
+├── serviceWorker.js
+└── setupTests.js
+
+directory: 2 file: 10
+
+ignored
